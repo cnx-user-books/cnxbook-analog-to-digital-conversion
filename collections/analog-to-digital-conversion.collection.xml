@@ -1,0 +1,15 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10578</md:content-id>
+    <md:title>Analog-to-Digital Conversion</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>cfeddc95-6743-4193-ba2e-d3a110ce9cd2</md:uuid>
+<md:slug>analog-to-digital-conversion</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m0050"/>
+    <col:module document="m0051"/>
+    <col:module document="m0511"/>
+  </col:content>
+</col:collection>
